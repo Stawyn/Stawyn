@@ -15,12 +15,6 @@ Programador e Especialista em Cybersegurança com **3+ anos de experiência** em
 - ☁️ **Cloud Computing** - AWS (Certificado), Azure, Google Cloud, DigitalOcean
 - 🔍 **Web Scraping & Automação** - Selenium, Playwright, BeautifulSoup
 
-### 🎯 Atualmente
-
-- 🔭 Trabalhando na **Didática Digital** desenvolvendo sistemas customizados
-- 🌱 Cursando **Sistemas de Informação** na AEDB (Dom Bosco)
-- 💼 Buscando: **Backend Developer** | **Python Developer** | **Cloud Engineer** | **DevOps**
-- 🌍 **Aberto para relocação na Europa**
 - 🇧🇷 Brasil | 🇬🇧 Inglês (B1)
 
 ---
