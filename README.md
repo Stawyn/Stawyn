@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Animated typing effect header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Backend+Developer+%7C+Cloud+Architect;AI%2FML+Integration+Specialist;Cybersecurity+Enthusiast" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software+Engineer;AI%2FML+Integration+Specialist;Cybersecurity" alt="Typing SVG" />
 <!-- Animated wave -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-### 💻 Senior Backend Developer | Python & Cloud Specialist | Discord Power User
+### 💻 Software Engineer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Stawyn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -23,7 +22,7 @@
 class SeniorDeveloper:
     def __init__(self):
         self.name = "Stawyn"
-        self.role = "Backend Developer & Cloud Architect"
+        self.role = "Software Engineer"
         self.specialization = ["Python", "Cloud Infrastructure", "AI/ML", "Cybersecurity"]
         self.discord_user = True
         
