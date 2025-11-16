@@ -102,10 +102,6 @@ class SeniorDeveloper:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stawyn&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stawyn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🏆 Featured Projects
@@ -171,18 +167,6 @@ class SeniorDeveloper:
 
 ---
 
-## 🌐 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/youruserid)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
-
----
 
 <div align="center">
   
@@ -192,8 +176,3 @@ class SeniorDeveloper:
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
