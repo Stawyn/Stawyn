@@ -1,111 +1,98 @@
-# 👋 Hi, I'm Stawyn!
+<div align="center">
 
-**Backend Developer | Python & Cloud Specialist | Cybersecurity Enthusiast | Open to opportunities in Europe**
+<!-- Animated typing effect header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Backend+Developer+%7C+Cloud+Architect;AI%2FML+Integration+Specialist;Cybersecurity+Enthusiast" alt="Typing SVG" />
+
+<!-- Animated wave -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+### 💻 Senior Backend Developer | Python & Cloud Specialist | Discord Power User
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Stawyn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Stawyn?label=Followers&style=social" alt="followers" />
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-Backend developer specializing in scalable web solutions, cloud infrastructure, and automation. Passionate about cybersecurity, AI/LLMs, and building systems that solve real-world problems.
-
-- 🔭 Working on **time-tracking systems** with facial recognition and geolocation
-- 🌱 Learning **Kubernetes**, **MLOps**, and **distributed systems**
-- 💼 Seeking: **Backend Developer** | **Python Developer** | **Cloud Engineer** | **DevOps**
-- 🌍 **Open to relocation in Europe**
-- 🇧🇷 Based in Brazil | 🇬🇧 English (B1)
+```python
+class SeniorDeveloper:
+    def __init__(self):
+        self.name = "Stawyn"
+        self.role = "Backend Developer & Cloud Architect"
+        self.specialization = ["Python", "Cloud Infrastructure", "AI/ML", "Cybersecurity"]
+        self.discord_user = True
+        
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "SQL", "Bash", "JavaScript"],
+            "frameworks": ["FastAPI", "Flask", "LangChain"],
+            "cloud": ["AWS", "Azure", "Google Cloud", "DigitalOcean", "Linode"],
+            "ai_ml": ["OpenAI", "Ollama", "Hugging Face"],
+            "databases": ["PostgreSQL", "MySQL", "SQL Server", "MongoDB"],
+            "devops": ["Docker", "Git", "CI/CD"],
+            "security": ["Burp Suite", "Nmap", "Wireshark"]
+        }
+    
+    def current_focus(self):
+        return "Building scalable systems with facial recognition and geolocation"
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Linode](https://img.shields.io/badge/-Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Linode](https://img.shields.io/badge/-Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI & Machine Learning
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cybersecurity & Networking
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square)
-![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
 
 ---
 
-## 💼 Featured Projects
-
-### 🏭 [Hospital Patient Queue System](https://github.com/Ragaz79/CronoIn)
-**Complete patient call system for public hospitals**
-- Replaced third-party solution with custom-built system
-- **Exclusively adopted** by multiple public hospitals
-- High versatility and customization
-- **Tech:** Python, FastAPI, PostgreSQL, WebSockets
-- **Features:** Queue management, real-time dashboard, hospital system integration
-
-### 🔐 Facial Recognition Authentication System
-**High-precision facial authentication**
-- Overcomes limitations of previous systems
-- Versatile for multiple contexts
-- **Tech:** Python, OpenCV, Deep Learning
-- **Applications:** Access control, time tracking, security
-
-### 🌐 Large-Scale Internet Infrastructure Mapping
-**Mass scanning similar to Shodan/Censys**
-- Distributed server infrastructure
-- Global TCP port scanning
-- Service fingerprinting and CVE identification
-- **Tech:** Python, Nmap, distributed computing
-
-### 📊 Scientific Filesystem Benchmark Analysis
-**Performance comparison of filesystems (ext4, FAT32, NTFS)**
-- Performance and efficiency evaluation
-- Complete scientific documentation
-- [View Documentation](https://linktr.ee/raposen)
-
-### 🤖 Automation & Bots
-- **Discord Bots** - Community automation
-- **WhatsApp Bots** - Automated customer service
-- **Web Scraping** - Large-scale data extraction with Selenium/Playwright
-
----
-
-## 🏆 Achievements & Certifications
-
-- ☁️ **AWS Academy Graduate** - Cloud Foundations
-- 🚗 **Stellantis Student Awards** - Innovative automotive solutions
-- 🎓 **SEAC 2024** - Educational system presentation
-- 💻 **Cloud & Networking Certification** (240h)
-- 🔧 **IT Support Certification** (400h)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stawyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -116,34 +103,98 @@ Backend developer specializing in scalable web solutions, cloud infrastructure, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stawyn&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
-
-## 🎯 Current Goals
-
-- ✅ Build high-quality open-source projects
-- 🎯 Contribute to international projects
-- 🌍 Work remotely or relocate to Europe
-- 📚 Deepen knowledge in Kubernetes and microservices
-- 🤖 Specialize in MLOps and LLMOps
-
----
-
-## 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linktr.ee/raposen)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://linktr.ee/raposen)
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stawyn&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stawyn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Time-Tracking System
+**Enterprise-grade attendance system**
+- Facial recognition authentication
+- Geolocation tracking
+- Real-time monitoring
+- RESTful API
+
+`Python` `FastAPI` `OpenCV` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 🤖 AI Integration Platform
+**Multi-model AI orchestration**
+- OpenAI & Ollama integration
+- LangChain workflows
+- Vector databases
+- Production-ready APIs
+
+`Python` `LangChain` `Ollama` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Infrastructure
+**Multi-cloud deployment automation**
+- AWS/Azure/GCP orchestration
+- Infrastructure as Code
+- Automated scaling
+- Cost optimization
+
+`Terraform` `Docker` `Kubernetes` `Python`
+
+</td>
+<td width="50%">
+
+### 🔒 Security Tools Suite
+**Cybersecurity automation toolkit**
+- Network scanning
+- Vulnerability assessment
+- Automated pentesting
+- Report generation
+
+`Python` `Nmap` `Burp Suite` `Bash`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/youruserid)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+</div>
+
+---
+
 <div align="center">
   
-  **💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
-  
-  **🌍 Open to opportunities in Europe | Remote-friendly | Ready to relocate**
-  
+### 💡 "Building scalable systems that solve real-world problems"
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
