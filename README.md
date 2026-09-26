@@ -9,6 +9,10 @@
 <pre>🐍 Python APIs  ·  🛡️ Security tools
 🤖 Applied AI  ·  🎮 Games  ·  🎌 Anime</pre>
 
+<a href="https://giphy.com/gifs/anime-nerdy-things-typing-at-computer-h5SWypnElrUgSDa9nU">
+  <img src="https://i.giphy.com/h5SWypnElrUgSDa9nU.gif" alt="Anime character typing at a computer" width="190">
+</a>
+
 </div>
 
 I build Python APIs and desktop tools, with a focus on security workflows and useful AI integrations.
