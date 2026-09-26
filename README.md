@@ -10,7 +10,7 @@
 🤖 Applied AI  ·  🎮 Games  ·  🎌 Anime</pre>
 
 <a href="https://giphy.com/gifs/anime-nerdy-things-typing-at-computer-h5SWypnElrUgSDa9nU">
-  <img src="https://i.giphy.com/h5SWypnElrUgSDa9nU.gif" alt="Anime character typing at a computer" width="190">
+  <img src="https://i.giphy.com/h5SWypnElrUgSDa9nU.gif" alt="Anime character typing at a computer" width="280">
 </a>
 
 </div>
