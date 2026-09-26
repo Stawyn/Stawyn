@@ -1,8 +1,8 @@
-﻿# Stawyn
+# Stawyn
 
-**Software engineer focused on Python backends, desktop applications, and practical developer tools.**
+**Software engineer building Python backends, security tools, and AI integrations.**
 
-I build software across the API, interface, and delivery workflow. My public projects show how I structure services, integrate external tools, document decisions, and package applications for real use.
+I build software across the API, interface, and delivery workflow. My public projects show security scanning workflows, external service integrations, documentation, and desktop packaging.
 
 ## Selected work
 
@@ -13,6 +13,6 @@ I build software across the API, interface, and delivery workflow. My public pro
 
 **Python · FastAPI · Flask · Laravel · Livewire · JavaScript · SQL · Git**
 
-In 2026, I am focused on backend engineering, useful desktop software, and clear technical documentation. I am interested in software engineering opportunities where I can own features from implementation through delivery.
+In 2026, I am interested in backend engineering, security tooling, and applied AI roles where I can take features from implementation through delivery.
 
 [Browse my public repositories →](https://github.com/Stawyn?tab=repositories)
