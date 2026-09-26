@@ -1,38 +1,44 @@
 <div align="center">
 
-# ✦ Stawyn's Dev Arc ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,45:4c1d95,100:ec4899&amp;height=220&amp;section=header&amp;text=Stawyn&amp;fontSize=68&amp;fontColor=ffffff&amp;fontFamily=monospace&amp;fontAlignY=38&amp;desc=Python%20backend%20-%20Security%20-%20AI&amp;descSize=16&amp;descAlignY=62&amp;animation=twinkling" alt="Stawyn — Python backend, security, and AI" width="100%">
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Python+backend+%E2%9C%A6;Security+side+quests+%F0%9F%9B%A1%EF%B8%8F;Applied+AI+experiments+%F0%9F%A4%96;Next+arc+loading..." alt="Python backend, security side quests, applied AI experiments, and next arc loading">
-</a>
-
-<p><code>🐍 Python</code> · <code>🛡️ Security</code> · <code>🤖 AI</code> · <code>🎮 Games</code> · <code>🎌 Anime</code></p>
-
-<pre>while bugs_exist:
-    fix_one()
-    build_something_cool()</pre>
+<p>
+  <img src="https://img.shields.io/badge/Python-main%20class-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python main class">
+  <img src="https://img.shields.io/badge/Security-side%20quest-D92359?style=flat-square" alt="Security side quest">
+  <img src="https://img.shields.io/badge/AI-experiments-7656E8?style=flat-square" alt="AI experiments">
+  <img src="https://img.shields.io/badge/Anime-%2B%20games-DB5CA6?style=flat-square" alt="Anime and games">
+</p>
 
 </div>
 
-## 🎮 Current arc
+## 🎴 Featured showcase
 
-I like turning ideas into working software: Python APIs, practical security tools, and AI experiments. Outside the terminal, I'm usually on an anime or gaming side quest.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Stawyn/Vulnix-App-raposaw">Vulnix</a></h3>
+      <p><sub>MAIN QUEST · WINDOWS SECURITY TOOL</sub></p>
+      <p>Authorized asset discovery and vulnerability scanning, with a Python/FastAPI backend and Laravel/Livewire interface.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Laravel</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Stawyn/Floppa-API">Floppa API</a></h3>
+      <p><sub>SIDE QUEST · BOT BACKEND</sub></p>
+      <p>A Flask backend for a WhatsApp bot, connecting commands to Last.fm, game alerts, and AI chat.</p>
+      <p><code>Python</code> <code>Flask</code> <code>APIs</code></p>
+    </td>
+  </tr>
+</table>
 
-## 🧪 Projects worth a look
-
-- 🛡️ **[Vulnix](https://github.com/Stawyn/Vulnix-App-raposaw)** — A Windows app for authorized asset discovery and vulnerability scanning, with a Python/FastAPI backend and a Laravel/Livewire interface.
-- 🤖 **[Floppa API](https://github.com/Stawyn/Floppa-API)** — A Flask backend for a WhatsApp bot, connecting commands to Last.fm, game alerts, and AI chat.
-
-## 🧰 My loadout
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,laravel,js,git&amp;theme=dark" alt="Python, FastAPI, Flask, Laravel, JavaScript and Git">
-
-Python · FastAPI · Flask · SQL · Laravel · Livewire · JavaScript · Git
+## 🎒 Loadout
 
 <div align="center">
 
-<sub>コードを書いて、バグを倒して、また作る。 · Write code, defeat bugs, build again.</sub>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,laravel,js,git&amp;theme=dark" alt="Python, FastAPI, Flask, Laravel, JavaScript and Git">
 
-[My GitHub quests →](https://github.com/Stawyn?tab=repositories)
+<p>Python · FastAPI · Flask · SQL · Laravel · Livewire · JavaScript · Git</p>
+<p>🎮 Anime, games, and building the next thing.</p>
+
+<a href="https://github.com/Stawyn?tab=repositories">Browse my inventory →</a>
 
 </div>
