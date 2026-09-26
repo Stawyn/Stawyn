@@ -1,35 +1,38 @@
 <div align="center">
 
-<h1>Hi, I'm Stawyn 👾</h1>
+# ✦ Stawyn's Dev Arc ✦
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Python+backend+engineering;Security+tools+%2B+AI+integrations;Turning+ideas+into+working+software" alt="Animated typing: Python backend engineering, security tools and AI integrations">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=2600&amp;pause=900&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Python+backend+%E2%9C%A6;Security+side+quests+%F0%9F%9B%A1%EF%B8%8F;Applied+AI+experiments+%F0%9F%A4%96;Next+arc+loading..." alt="Python backend, security side quests, applied AI experiments, and next arc loading">
 </a>
 
-<pre>🐍 Python APIs  ·  🛡️ Security tools
-🤖 Applied AI  ·  🎮 Games  ·  🎌 Anime</pre>
+<p><code>🐍 Python</code> · <code>🛡️ Security</code> · <code>🤖 AI</code> · <code>🎮 Games</code> · <code>🎌 Anime</code></p>
 
-<a href="https://giphy.com/gifs/anime-nerdy-things-typing-at-computer-h5SWypnElrUgSDa9nU">
-  <img src="https://i.giphy.com/h5SWypnElrUgSDa9nU.gif" alt="Anime character typing at a computer" width="280">
-</a>
+<pre>while bugs_exist:
+    fix_one()
+    build_something_cool()</pre>
 
 </div>
 
-I build Python APIs and desktop tools, with a focus on security workflows and useful AI integrations.
+## 🎮 Current arc
 
-My public projects show how I structure services, connect external tools, document decisions, and package software for use.
+I like turning ideas into working software: Python APIs, practical security tools, and AI experiments. Outside the terminal, I'm usually on an anime or gaming side quest.
 
-## Selected work
+## 🧪 Projects worth a look
 
-- 🛡️ **[Vulnix](https://github.com/Stawyn/Vulnix-App-raposaw)** — A Windows desktop application for authorized asset discovery and vulnerability scanning. The repository includes a Python/FastAPI backend, a Laravel/Livewire interface, automated checks, build scripts, and documentation.
-- 🤖 **[Floppa API](https://github.com/Stawyn/Floppa-API)** — A Flask service that keeps a WhatsApp bot's command handling separate from integrations such as Last.fm, game alerts, and AI chat. Its routes and services are organized by responsibility.
+- 🛡️ **[Vulnix](https://github.com/Stawyn/Vulnix-App-raposaw)** — A Windows app for authorized asset discovery and vulnerability scanning, with a Python/FastAPI backend and a Laravel/Livewire interface.
+- 🤖 **[Floppa API](https://github.com/Stawyn/Floppa-API)** — A Flask backend for a WhatsApp bot, connecting commands to Last.fm, game alerts, and AI chat.
 
-## What I work with
+## 🧰 My loadout
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,laravel,js,git&amp;theme=dark" alt="Python, FastAPI, Flask, Laravel, JavaScript and Git">
 
-**Backend:** Python, FastAPI, Flask, SQL. **Interface and delivery:** Laravel, Livewire, JavaScript, Git.
+Python · FastAPI · Flask · SQL · Laravel · Livewire · JavaScript · Git
 
-In 2026, I am interested in backend engineering, security tooling, and applied AI roles where I can take features from implementation through delivery.
+<div align="center">
 
-[Browse my public repositories →](https://github.com/Stawyn?tab=repositories)
+<sub>コードを書いて、バグを倒して、また作る。 · Write code, defeat bugs, build again.</sub>
+
+[My GitHub quests →](https://github.com/Stawyn?tab=repositories)
+
+</div>
